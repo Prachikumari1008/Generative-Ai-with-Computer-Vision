@@ -28,3 +28,4 @@ The technologies of machine vision aim to imitate human vision; it involves the 
 
 AI vision, or Computer Vision, involves a set of image-processing techniques to make computers see and understand visual information. Computers act as “the brains” that perform advanced computing tasks and apply sophisticated algorithms to analyze images or videos provided by optical sensors or cameras (the “eyes”). Virtually any image of any camera can be used to apply AI vision algorithms.  
 
+For more information on Opencv please visit : https://learnopencv.com/getting-started-with-opencv/
